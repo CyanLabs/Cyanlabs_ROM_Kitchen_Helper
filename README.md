@@ -1,4 +1,4 @@
-Cyanlabs_ROM_Kitchen_Helper
+Cyanlabs ROM Kitchen Helper
 ===========================
 
 Helper application for http://kitchen.cyanlabs.co.uk
