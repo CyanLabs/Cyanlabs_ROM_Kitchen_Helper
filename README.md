@@ -1,3 +1,5 @@
+`As kitchen.cyanlabs.co.uk is no longer active or exists this repo has been archived`
+
 Cyanlabs ROM Kitchen Helper
 ===========================
 
